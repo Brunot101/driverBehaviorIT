@@ -1,0 +1,10 @@
+{
+    "Cenario 3 - Decision Tree com teoria da informacao por linha": {
+        "accuracy_mean": 0.9077637130801687,
+        "precision_mean": 0.7758887037886796,
+        "recall_mean": 0.7766136243453435,
+        "f1_mean": 0.7761421173231684,
+        "dx": "5",
+        "window": "60"
+    }
+}
