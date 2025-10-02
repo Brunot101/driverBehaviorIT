@@ -1,0 +1,12 @@
+{
+    "Cenario 1 - Features originais": {
+        "accuracy_mean": 0.9389782352595313,
+        "accuracy_std": 0.0036313764563514193,
+        "precision_mean": 0.9202018212699375,
+        "precision_std": 0.008417657801428273,
+        "recall_mean": 0.7633546528107085,
+        "recall_std": 0.013103859759028738,
+        "f1_mean": 0.8182707695668583,
+        "f1_std": 0.012830154722370367
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Cenario 2 - Features com teoria da informacao por coluna": {
+        "accuracy_mean": 0.9642194092827004,
+        "accuracy_std": 0.0020610421505181387,
+        "precision_mean": 0.9527687795786679,
+        "precision_std": 0.00690757649980398,
+        "recall_mean": 0.8674069748254205,
+        "recall_std": 0.007029762375077585,
+        "f1_mean": 0.9041318519791325,
+        "f1_std": 0.005753473741664756,
+        "dx": "5",
+        "window": "60"
+    }
+}

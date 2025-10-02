@@ -1,0 +1,14 @@
+{
+    "Cenario 3 - Features com teoria da informacao por linha": {
+        "accuracy_mean": 0.9408094435075887,
+        "accuracy_std": 0.0027658042945795554,
+        "precision_mean": 0.9258969918763255,
+        "precision_std": 0.009350887475777182,
+        "recall_mean": 0.76964075830751,
+        "recall_std": 0.012413890919519931,
+        "f1_mean": 0.8247005772732932,
+        "f1_std": 0.010412348141784288,
+        "dx": "5",
+        "window": "40"
+    }
+}
