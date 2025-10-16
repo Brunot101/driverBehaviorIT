@@ -1,0 +1,15 @@
+{
+    "Cenario LSTM - Janelas temporais": {
+        "accuracy_mean": 0.927353313634445,
+        "accuracy_std": 0.005192922056741418,
+        "precision_mean": 0.8512804217721742,
+        "precision_std": 0.012640688342207088,
+        "recall_mean": 0.7633158410876508,
+        "recall_std": 0.020730511421495724,
+        "f1_mean": 0.7984119354479283,
+        "f1_std": 0.01791364115318875,
+        "dx": "5",
+        "window": "60",
+        "timesteps": 10
+    }
+}

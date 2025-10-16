@@ -1,0 +1,14 @@
+{
+    "Cenario LSTM - Features com teoria da informacao por coluna": {
+        "accuracy_mean": 0.8984388185654009,
+        "accuracy_std": 0.007755682876982478,
+        "precision_mean": 0.7947477431831536,
+        "precision_std": 0.03600075621221457,
+        "recall_mean": 0.6025091014854664,
+        "recall_std": 0.04850459432906093,
+        "f1_mean": 0.6314159830486364,
+        "f1_std": 0.06980736574329502,
+        "dx": "5",
+        "window": "60"
+    }
+}
